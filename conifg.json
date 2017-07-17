@@ -1,0 +1,10 @@
+{
+    "base-path":"dir",    
+    "Rigs":[
+        {
+            "Rig-name":"Rig1",
+            "cmd" : "cmd-for-rig1",
+            "path": "Rig-path-for-rig1"
+        }
+    ]
+}
