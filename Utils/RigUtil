@@ -1,0 +1,6 @@
+this script sets up the main Rigs directory that contains all rig files 
+if not specified /Rigs is used 
+this location can be over written
+
+this script also updated rig info in config.json
+also creates and/or updates rig-dir env var and makes it an alias    
