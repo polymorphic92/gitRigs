@@ -1,5 +1,7 @@
 #!/bin/bash
 # A sample Bash script, by Ryan
-for file in /mnt/c/Users/kbraham/Documents/dev/repos/gitRigs/Rigs/*; do
+echo ${BASH_SOURCE/%parts/*}
+echo done testing 
+for file in ${BASH_SOURCE}/parts/*; do
     [ -f "$file" ] && [ -x "$file" ] && "$file"
 done

@@ -1,0 +1,22 @@
+ {
+     "rig-name": {
+         "rig-script": "path-of-Rig-script",
+         "rig-parts": [{
+                 "name": "name",
+                 "cmd": "cmd",
+                 "args": ""
+             },
+             {
+                 "name": "name",
+                 "cmd": "cmd",
+                 "args": ""
+             },
+             {
+                 "name": "name",
+                 "cmd": "cmd",
+                 "args": ""
+             }
+
+         ]
+     }
+ }
