@@ -1,0 +1,21 @@
+{
+    "Rig-name": "Rig1",
+    "Rig-parts": {
+        "part1": {
+            "name": "name",
+            "cmd": "cmd",
+            "args": ""
+        },
+        "part2": {
+            "name": "name",
+            "cmd": "cmd",
+            "args": ""
+        },
+        "part3": {
+            "name": "name",
+            "cmd": "cmd",
+            "args": ""
+        }
+
+    }
+}
