@@ -1,0 +1,3 @@
+# a script that interfaces with git hook
+# git hook calls this via env var 
+# runs rig-parts from defined Rig 
