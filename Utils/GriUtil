@@ -1,0 +1,6 @@
+this script sets up the main GRI directory that contains all gri files 
+if not specified /GRI is used 
+this location can be over written
+
+this script also updated gri info in config.json
+also creates and/or updates gri realted env vars and makes them aliases   
